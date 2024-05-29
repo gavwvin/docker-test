@@ -16,4 +16,5 @@ Demo showing creation of local Windows Web server and Local SQL server
 This should create the Web server and Local DB server. You should see both running under "Containers" in Docker Desktop:
 ![image](https://github.com/gavwvin/docker-test/assets/5271011/cdbd8092-3b80-4697-9e74-788383194d4e)
 
-Test by visiting http://localhost:8080/
+Test by visiting http://localhost:8080/ - shows the products listed in the seed script
+![image](https://github.com/gavwvin/docker-test/assets/5271011/a2f768d6-51e4-4deb-8790-9ff71487ed87)
